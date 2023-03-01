@@ -17,9 +17,9 @@ In 2022 I decided to turn this life-long passion into a viable career path by jo
 
 ---
 
-🔭 **I’m currently working on:** 
-* Finishing GA Tech's 2022 Full-Stack Coding Bootcamp
-* Writing a bootloader and possibly a simple OS from scratch.
+📓 **Credentials:**
+
+* Georgia Institute of Technology - 2022 Web-Development Coding Bootcamp Graduate
 
 🌱 **I’m currently learning:**
 
@@ -29,6 +29,8 @@ In 2022 I decided to turn this life-long passion into a viable career path by jo
 
 
 ⚡ **Fun fact:** Though admittedly impractical much of the time, assembly is my favorite language.
+
+
 <!--
 **Chromodyne/Chromodyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
